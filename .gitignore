@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# NetBeans private user settings
+nbproject/private/
+
+# NetBeans build output
+build/
